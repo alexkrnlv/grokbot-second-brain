@@ -3,7 +3,7 @@
 ```
 Set up a persistent Second Brain for me on your box. Follow these steps in order and ask me before anything public or irreversible.
 
-1. Clone https://github.com/alexkrnlv/second-brain-template into /workspace/second-brain.
+1. Clone https://github.com/alexkrnlv/grokbot-second-brain into /workspace/second-brain.
 2. Help me create my own PRIVATE GitHub repo (via "Use this template", or a new empty private repo) and set it as origin; then push. If I have no GitHub, keep local git only. Never push my data to a public repo.
 3. Read README.md, AGENT-RULES.md and RITUALS.md fully.
 4. Interview me, one message, then fill hot/ from my answers:
