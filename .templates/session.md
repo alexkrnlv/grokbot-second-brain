@@ -1,4 +1,5 @@
 ---
+domain: business   # business | personal | both
 type: session
 date: YYYY-MM-DD
 agent: AgentName

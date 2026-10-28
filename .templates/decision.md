@@ -1,4 +1,5 @@
 ---
+domain: business   # business | personal | both
 type: decision
 date: YYYY-MM-DD
 status: open

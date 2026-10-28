@@ -1,5 +1,5 @@
 # Key People
 
-| Name | Relation | Page |
-|---|---|---|
-| John Example | colleague | warm/people/john-example.md |
+| Name | Domain | Relation | Page |
+|---|---|---|---|
+| John Example | both | friend, client | warm/clients/john-example.md |

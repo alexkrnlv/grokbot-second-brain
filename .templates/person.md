@@ -1,4 +1,5 @@
 ---
+domain: personal   # business | personal | both
 type: person
 name: Jane Doe
 slug: jane-doe

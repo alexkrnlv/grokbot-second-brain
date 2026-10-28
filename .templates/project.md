@@ -1,4 +1,5 @@
 ---
+domain: business   # business | personal | both
 type: project
 name: Project Example
 slug: project-example

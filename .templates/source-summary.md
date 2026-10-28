@@ -1,4 +1,5 @@
 ---
+domain: business   # business | personal | both
 type: source
 title: ...
 url: 
