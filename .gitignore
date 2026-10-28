@@ -1,0 +1,12 @@
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.zip
+.env
+*.key
+raw/
